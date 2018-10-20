@@ -1,0 +1,12 @@
+localhost
+2
+comunidadASR
+127.0.0.1
+francisco-HP-Pavilion-14-Notebook-PC
+Linux
+3
+4h 0m 48.899999999999636s
+"Computadora de Paco"
+lmethod1234@gmail.com
+9
+764020
